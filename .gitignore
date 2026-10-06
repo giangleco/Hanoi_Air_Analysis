@@ -1,0 +1,14 @@
+# Môi trường ảo Python
+BDT/
+
+# Cache của Python và Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Biến môi trường (API key...)
+.env
+
+# File hệ thống / editor
+.DS_Store
+.vscode/
