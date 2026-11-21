@@ -1,5 +1,6 @@
 # Môi trường ảo Python
 BDT/
+outputs/
 
 # Cache của Python và Jupyter
 __pycache__/
